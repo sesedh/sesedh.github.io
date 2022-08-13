@@ -482,11 +482,3 @@ p.footer a:hover {
         width: 90%
     }
 }
-
-@media(max-width:500px) {
-
-    .bg-bubbles,
-    .wrapper {
-        height: auto;
-    }
-}
